@@ -1,0 +1,4 @@
+This is the info text file that is going to be deleted.
+
+This file is going to be used for understandig the concept
+of branching,deleting files from the repo.
